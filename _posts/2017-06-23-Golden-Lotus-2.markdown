@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "第六回　何九受贿瞒天　王婆帮闲遇雨"
+title:  "第六回 何九受贿瞒天 王婆帮闲遇雨"
 date:   2017-06-23 02:14:37 +0800
 categories: jekyll update
 ---
